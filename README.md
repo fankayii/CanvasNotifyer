@@ -14,8 +14,9 @@ A GUI program that retrieve and store information from Canvas. Targeted users ar
 This project is not affiliated with Canvas or Instructure. It is an independent tool created to enhance the Canvas experience for its users.
 
 ## Contributions:
-Contributions and improvements to this project are welcome. Feel free to submit pull requests, report issues, or suggest new features to enhance Canvas Data Fetcher further.
+Contributions and improvements to this project are welcome. Feel free to submit pull requests, report issues, or suggest new features to enhance Canvas Notifyer further.
 
 ## Future Plans
 - Adding graph for assignment points
 - Adding `PraireLearn` and `WebWork`
+- Notification function for having assignments within 24hrs
